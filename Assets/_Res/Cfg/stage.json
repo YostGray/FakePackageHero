@@ -1,0 +1,22 @@
+{
+  "1001":{
+    "battle_room_pool":[
+      1,
+      2,
+      3
+    ],
+    "boss_room":1,
+    "event_room_pool":[
+      0
+    ],
+    "id":1001,
+    "max_size":[
+      5,
+      5
+    ],
+    "room_num":10,
+    "treasure_room_pool":[
+      0
+    ]
+  }
+}

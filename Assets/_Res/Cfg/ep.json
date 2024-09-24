@@ -1,0 +1,10 @@
+{
+  "1":{
+    "id":1,
+    "name":"可怖森林",
+    "scene_name":"Level_forest",
+    "stage_list":[
+      1001
+    ]
+  }
+}

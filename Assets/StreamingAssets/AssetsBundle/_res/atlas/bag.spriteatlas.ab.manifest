@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3461280935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4528299167640a3c5af8df4ef005c115
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d677c6dec2405a43fe6dd294cca7c3e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Atlas/Bag/\u5305\u4E0A\u76D6.png"
+- "Assets/Atlas/Bag/\u6309\u94AE New.png"
+- "Assets/Atlas/Bag/\u57FA\u5E95.png"
+- "Assets/Atlas/Bag/\u5730\u56FE\u5E95.png"
+- Assets/_Res/Atlas/Bag.spriteatlas
+- "Assets/Atlas/Bag/\u642D\u6263.png"
+- "Assets/Atlas/Bag/\u5730\u56FE.png"
+- "Assets/Atlas/Bag/\u5730\u56FE\u56FE\u6807.png"
+- "Assets/Atlas/Bag/\u80CC\u5305\u683C\u5B50.png"
+- "Assets/Atlas/Bag/\u4E0A\u76D6\u642D\u6263.png"
+Dependencies: []

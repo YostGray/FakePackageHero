@@ -1,0 +1,3 @@
+[*]
+end_of_line = crlf                    # 行尾格式 CRLF
+charset = utf-8                     # 文件编码字符集为 UTF-8

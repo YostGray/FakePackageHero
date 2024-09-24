@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2522768189
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: _res/scenes/launcher.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: _res/scenes/main.unity.ab
+      Dependencies:
+        Dependency_0: _res/atlas/bag.spriteatlas.ab
+    Info_2:
+      Name: _res/atlas/bag.spriteatlas.ab
+      Dependencies: {}
+    Info_3:
+      Name: _res/rawimg/test.ab
+      Dependencies: {}

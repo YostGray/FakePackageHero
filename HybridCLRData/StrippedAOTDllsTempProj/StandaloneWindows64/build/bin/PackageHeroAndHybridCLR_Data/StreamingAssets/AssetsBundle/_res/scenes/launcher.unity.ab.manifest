@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 506067881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f212117fbecd96a4a56f93f3a4a8b11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 94edb3914483fee0ec0347741791a0cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e8322068f51f834db4a3420628258da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Res/Scenes/Launcher.unity
+Dependencies: []

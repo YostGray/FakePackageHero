@@ -1,0 +1,9 @@
+{
+  "1":{
+    "default_AP":3,
+    "default_HP":25,
+    "default_MP":3,
+    "id":1,
+    "name":"测试英雄"
+  }
+}
